@@ -15,7 +15,7 @@ I build software and integrate AI into practical applications. My interests incl
 - **Modern Parcel Receiver** — A parcel-receiving system.
 - **Gas & Smoke Safety System** — IoT monitoring with automatic valve shutdown and manual control through a web or mobile interface.
 - **AI-Assisted Crop Monitoring** — Pest and fungi monitoring with pesticide dispensing for lettuce cultivation.
-- **Grym** — Gym community platform and mobile application.
+- **Grym** — Gym community platform and mobile application for tracking (calories, exercise, etc..), payment, browsing gym, handling membership.
 - **Dewormify** — a deworming mobile application to notify and scheduling system, giving knowledge for each Parents.
 
 ## Contact
