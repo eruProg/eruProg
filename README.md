@@ -1,35 +1,23 @@
-Hey there! 👋
+# Hi, I'm eru
 
-I'm a Computer Engineering student passionate about Systems, AI, and building real world technology.
+Software Developer & AI Integration Specialist based in the Philippines, with a background in Computer Engineering.
 
-I enjoy turning every ideas into working implementations, whether it's low-level systems, AI models, or IoT devices. 
-If I can imagine it, I’ll probably try to build it like immediately :D.
+I build software and integrate AI into practical applications. My interests include systems programming, automation, and embedded systems.
 
-💻 What I Do
-- Work on systems and low-level programming
-- Explore AI implementation and practical applications
-- Build IoT projects through experimentation and university work
-- Constantly learning by building, breaking, and improving systems
+## Focus
 
-🧠 Tech Interests
-- Systems Programming
-- Artificial Intelligence
-- Embedded Systems & IoT
+- Software development
+- AI integration and workflow automation
+- Embedded systems and IoT
 
-📌 Projects
+## Selected Projects
 
- Some Works While attending Univ:
- - Modern Parcel Receiver
- - IoT Safety System for Gas and Smoke Detection with Automatic Valve Shutdown and Interactive Web/App-Based Manual Control
- - AI-Driven Machine for Pest and Fungi Monitoring with  Pesticide Dispensing in Sustainable Lettuce Cultivation
-Check out my pinned repositories to see what I’ve been working on.
-Most of my learning comes from hands-on experimentation and real builds.
+- **Modern Parcel Receiver** — A parcel-receiving system.
+- **Gas & Smoke Safety System** — IoT monitoring with automatic valve shutdown and manual control through a web or mobile interface.
+- **AI-Assisted Crop Monitoring** — Pest and fungi monitoring with pesticide dispensing for lettuce cultivation.
+- **Grym** — Gym community platform and mobile application.
+- **Dewormify** — a deworming mobile application to notify and scheduling system, giving knowledge for each Parents.
 
-⚡ Fun Facts
-- I like building things from scratch
-- I learn best by experimenting
-- Always curious about how systems work under the hood
+## Contact
 
-📫 Let’s Connect
-
-Feel free to check out my projects or reach out—always open to collaboration and learning.
+Open to software development, AI integration projects, and collaboration.
